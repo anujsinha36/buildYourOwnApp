@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903124252243",
+    "project_id": "soka-singing",
+    "storage_bucket": "soka-singing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903124252243:android:b5776bcf63f911b475f8a6",
+        "android_client_info": {
+          "package_name": "com.example.sokasinging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyFEdzIYVxv6EG91pmg2wJXYNQwv_NMaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
