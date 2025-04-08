@@ -1,3 +1,7 @@
+# Missing Deliverables
+- A working APK file - Mandatory ✅: A compiled APK we can install and test.
+- A video demo - Mandatory ✅: A short video showcasing all the flows of your app.
+
 Soka Singing Application
 
 A utility music application for BSG(Bharat Soka Gakkai) Users. 
